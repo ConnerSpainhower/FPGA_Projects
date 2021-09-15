@@ -1,0 +1,185 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "out1A",
+					"strict" : false
+				},
+				{
+					"name" : "out1B",
+					"strict" : false
+				},
+				{
+					"name" : "out1C",
+					"strict" : false
+				},
+				{
+					"name" : "out1D",
+					"strict" : false
+				},
+				{
+					"name" : "out1E",
+					"strict" : false
+				},
+				{
+					"name" : "out1F",
+					"strict" : false
+				},
+				{
+					"name" : "out1G",
+					"strict" : false
+				},
+				{
+					"name" : "out2A",
+					"strict" : false
+				},
+				{
+					"name" : "out2B",
+					"strict" : false
+				},
+				{
+					"name" : "out2C",
+					"strict" : false
+				},
+				{
+					"name" : "out2D",
+					"strict" : false
+				},
+				{
+					"name" : "out2E",
+					"strict" : false
+				},
+				{
+					"name" : "out2F",
+					"strict" : false
+				},
+				{
+					"name" : "out2G",
+					"strict" : false
+				},
+				{
+					"name" : "out3A",
+					"strict" : false
+				},
+				{
+					"name" : "out3B",
+					"strict" : false
+				},
+				{
+					"name" : "out3C",
+					"strict" : false
+				},
+				{
+					"name" : "out3D",
+					"strict" : false
+				},
+				{
+					"name" : "out3E",
+					"strict" : false
+				},
+				{
+					"name" : "out3F",
+					"strict" : false
+				},
+				{
+					"name" : "out3G",
+					"strict" : false
+				},
+				{
+					"name" : "out4A",
+					"strict" : false
+				},
+				{
+					"name" : "out4B",
+					"strict" : false
+				},
+				{
+					"name" : "out4C",
+					"strict" : false
+				},
+				{
+					"name" : "out4D",
+					"strict" : false
+				},
+				{
+					"name" : "out4E",
+					"strict" : false
+				},
+				{
+					"name" : "out4F",
+					"strict" : false
+				},
+				{
+					"name" : "out4G",
+					"strict" : false
+				},
+				{
+					"name" : "1D",
+					"strict" : false
+				},
+				{
+					"name" : "1C",
+					"strict" : false
+				},
+				{
+					"name" : "1B",
+					"strict" : false
+				},
+				{
+					"name" : "1A",
+					"strict" : false
+				},
+				{
+					"name" : "2D",
+					"strict" : false
+				},
+				{
+					"name" : "2C",
+					"strict" : false
+				},
+				{
+					"name" : "2B",
+					"strict" : false
+				},
+				{
+					"name" : "2A",
+					"strict" : false
+				},
+				{
+					"name" : "3D",
+					"strict" : false
+				},
+				{
+					"name" : "3C",
+					"strict" : false
+				},
+				{
+					"name" : "3B",
+					"strict" : false
+				},
+				{
+					"name" : "3A",
+					"strict" : false
+				},
+				{
+					"name" : "4D",
+					"strict" : false
+				},
+				{
+					"name" : "4C",
+					"strict" : false
+				},
+				{
+					"name" : "4B",
+					"strict" : false
+				},
+				{
+					"name" : "4A",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
